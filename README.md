@@ -23,6 +23,7 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://p
 
 ## 🛠️ Ferramentas Utilizadas
 - Tableau
+- SQL
 
 ## 📈 Resultados
 Neste projeto, utilizamos o software de análise de dados Tableau para criar visualizações interativas e gerar insights estratégicos. Com ele, identificamos as regiões e lojas mais rentáveis, além de destacar unidades que operam com prejuízo. Também identificamos erros operacionais específicos que resultaram em perdas significativas por produto vendido.
