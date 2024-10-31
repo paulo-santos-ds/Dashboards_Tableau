@@ -13,7 +13,7 @@ A concorrência nesse setor é acirrada, com uma série de distribuidores, ataca
 A logística e a gestão de estoques desempenham importante papel garantindo que os produtos estejam disponíveis quando os clientes precisarem. Parcerias com fabricantes e fornecedores confiáveis também podem ser vantajosas.
 
 ## Dashboard Interativo Tableau
-Você pode acessar o dashboard interativo no Tableau através do link: https://public.tableau.com/app/profile/paulo.roberto.albino.dos.santos/viz/Exercicio_3_17303100897160/Painel1
+Você pode acessar o dashboard interativo no Tableau através do link: https://encurtador.com.br/Mb8oU
 <div class='tableauPlaceholder' id='viz1730345003962' style='position: relative'>
     <noscript>
         <a href='#'>
