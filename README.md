@@ -1,1 +1,14 @@
-[[[<div class='tableauPlaceholder' id='viz1730342416194' style='position: relative'><noscript><a href='#'><img alt='Painel 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;Exercicio_3_17303100897160&#47;Painel1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Exercicio_3_17303100897160&#47;Painel1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;Exercicio_3_17303100897160&#47;Painel1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='pt-BR' /></object></div>         ](https://public.tableau.com/views/Exercicio_3_17303100897160/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
+# Predição de Preços de Carros
+
+## Dashboard Interativo
+Você pode acessar o dashboard interativo no Tableau através do link abaixo:
+
+[![Painel de Preços de Carros](https://public.tableau.com/static/images/Ex/Exercicio_3_17303100897160/Painel1/1.png)](https://public.tableau.com/views/Exercicio_3_17303100897160/Painel1)
+
+> **Nota:** O Tableau não pode ser incorporado diretamente aqui. Clique na imagem acima para acessar a versão interativa.
+
+## Descrição do Projeto
+O objetivo deste projeto é realizar predições de preços para carros em um aplicativo de vendas...
+
+<!-- Resto do conteúdo do README -->
+
