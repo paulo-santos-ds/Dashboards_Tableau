@@ -14,10 +14,12 @@ A logística e a gestão de estoques desempenham importante papel garantindo que
 
 ## Dashboard Interativo Tableau
 Você pode acessar o dashboard interativo no Tableau através do link: https://public.tableau.com/app/profile/paulo.roberto.albino.dos.santos/viz/Exercicio_3_17303100897160/Painel1
-
-[Visualizar o Painel no Tableau](https://public.tableau.com/views/Exercicio_3_17303100897160/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
+<div class='tableauPlaceholder' id='viz1730345003962' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt='Painel 1' src='https://public.tableau.com/static/images/Ex/Exercicio_3_17303100897160/Painel1/1_rss.png' style='border: none' />
+        </a>
+</div>
 
 
 
