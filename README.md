@@ -15,7 +15,7 @@ A logística e a gestão de estoques desempenham importante papel garantindo que
 ## Dashboard Interativo Tableau
 Você pode acessar o dashboard interativo no Tableau através do link: https://public.tableau.com/app/profile/paulo.roberto.albino.dos.santos/viz/Exercicio_3_17303100897160/Painel1
 
-[![Painel de Preços de Carros](https://public.tableau.com/static/images/Ex/Exercicio_3_17303100897160/Painel1/1.png)](https://public.tableau.com/views/Exercicio_3_17303100897160/Painel1)
+[![Painel de Preços de Carros](https://encurtador.com.br/Mb8oU)
 
 
 
