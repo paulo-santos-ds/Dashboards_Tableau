@@ -70,7 +70,6 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://e
 </div>
 
 
-
 ## 🛠️ Ferramentas Utilizadas
 - Tableau
 - SQL
