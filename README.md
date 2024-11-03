@@ -2,15 +2,63 @@
 
 ## Descrição do Projeto
  
-Este projeto tem como objetivo analisar os dados de Vendas produtos de escritorio, encontrar padrões nas informações disponíveis, entender as preferências dos clientes e o impacto de fatores externos no consumo.
+## 📊 Visão Geral
+Dashboard operacional que apresenta análise detalhada das vendas, lucro e distribuição geográfica dos resultados comerciais.
+## 🔑 Indicadores Principais
 
-O mercado de vendas de produtos para escritório no Brasil apresenta diversas oportunidades interessantes. Com o aumento do número de empresas e o fortalecimento da economia, a demanda por materiais de escritório, equipamentos e suprimentos tem se mantido constante.
+* Vendas Totais: R$ 2.297,2K
+*Lucro: R$ 286,4K
+* Margem de Lucro: 12,5%
+* Quantidade: 37,9K unidades
 
-As principais categorias de produtos incluem papéis, canetas, lápis, pastas, arquivadores, dispositivos de tecnologia (computadores, impressoras, scanners), mobiliário (mesas, cadeiras, armários) e itens de organização, como agendas e organizadores. Esses produtos são essenciais para o funcionamento eficiente de qualquer negócio.
+## 📈 Análises Disponíveis
 
-A concorrência nesse setor é acirrada, com uma série de distribuidores, atacadistas e varejistas especializados. No entanto, há espaço para empresas que conseguem oferecer uma ampla variedade de produtos, preços competitivos e um serviço de atendimento ao cliente diferenciado.
+1. Série Temporal
 
-A logística e a gestão de estoques desempenham importante papel garantindo que os produtos estejam disponíveis quando os clientes precisarem. Parcerias com fabricantes e fornecedores confiáveis também podem ser vantajosas.
+* Acompanhamento mensal de vendas
+* Segmentação por categorias (Material de Escritório, Móveis, Tecnologia)
+
+
+2. Distribuição Geográfica
+
+* Mapa de calor por região do Brasil
+* Valores de venda por estado
+* Visualização interativa com OpenStreetMap
+
+
+3. Análise de Correlação
+
+* Gráfico de dispersão relacionando vendas e lucro
+* Clusters por volume de vendas
+
+
+4. Ranking de Cidades
+
+* Detalhamento por município
+* Métricas de vendas
+* lucro e margem
+* Top performers: Castanhal, Muriaçu, Caucaia
+
+
+
+## 🎯 Principais Insights
+
+* Forte presença nas regiões Norte e Nordeste
+* Margens de lucro variando entre 26-36% nas principais cidades
+* Correlação positiva entre volume de vendas e lucratividade
+
+## 🛠 Tecnologias Utilizadas
+
+## Tableau Public
+* OpenStreetMap para visualização geográfica
+* Análise interativa de dados
+
+## 📱 Como Utilizar
+
+* Utilize os filtros de região e estado para análises específicas
+* Interaja com o mapa para visualização geográfica detalhada
+* Explore as correlações através do gráfico de dispersão
+* Analise o desempenho por cidade na tabela detalhada
 
 ## Dashboard Interativo Tableau
 Você pode acessar o dashboard interativo no Tableau através do link: https://encurtador.com.br/Mb8oU
@@ -27,5 +75,29 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://e
 - Tableau
 - SQL
 
-## 📈 Resultados
-Neste projeto, utilizamos o software de análise de dados Tableau para criar visualizações interativas e gerar insights estratégicos. Com ele, identificamos as regiões e lojas mais rentáveis, além de destacar unidades que operam com prejuízo. Também identificamos erros operacionais específicos que resultaram em perdas significativas por produto vendido.
+## 📊 Resultados
+
+* A análise do dashboard operacional revela um cenário robusto de vendas com R$ 2.297,2K em receita total.
+* Gerando uma lucratividade de R$ 286,4K e mantendo uma margem saudável de 12,5%. O volume de 37,9K unidades vendidas demonstra uma operação de escala significativa.
+
+## 🎯 Destaques por Região
+
+1. Norte:
+
+* Forte desempenho em Castanhal (R$ 26,5K em vendas)
+* Muriaçu destacando-se com 36,4% de margem de lucro
+* Potencial de expansão em áreas adjacentes
+
+2. Nordeste:
+
+* Caucaia apresentando resultados expressivos (R$ 19,5K)
+* Fortaleza mantendo consistência nas vendas
+* Oportunidades de crescimento identificadas
+
+
+
+## 💡 Insights Estratégicos
+
+* Distribuição Geográfica: Concentração significativa nas regiões Norte e Nordeste, indicando potencial de expansão para outras regiões
+* Performance de Vendas: Correlação positiva entre volume de vendas e lucratividade
+* Eficiência Operacional: Margens de lucro variando entre 26-36% nas principais cidades
