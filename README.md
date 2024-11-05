@@ -100,3 +100,11 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://e
 * Distribuição Geográfica: Concentração significativa nas regiões Norte e Nordeste, indicando potencial de expansão para outras regiões
 * Performance de Vendas: Correlação positiva entre volume de vendas e lucratividade
 * Eficiência Operacional: Margens de lucro variando entre 26-36% nas principais cidades
+
+
+## 🛠️ Instalação
+
+1. Clone este repositório
+2. Instale as dependências listadas acima
+3. Execute o aplicativo:
+
