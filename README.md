@@ -6,7 +6,6 @@
 Dashboard operacional que apresenta análise detalhada das vendas, lucro e distribuição geográfica dos resultados comerciais.
 ## 🔑 Indicadores Principais
 
-
 * Vendas Totais: R$ 2.297,2K
 *Lucro: R$ 286,4K
 * Margem de Lucro: 12,5%
