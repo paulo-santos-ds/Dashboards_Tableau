@@ -26,7 +26,6 @@ Dashboard operacional que apresenta análise detalhada das vendas, lucro e distr
 * Visualização interativa com OpenStreetMap
 
 
-
 3. Análise de Correlação
 
 * Gráfico de dispersão relacionando vendas e lucro
