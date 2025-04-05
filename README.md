@@ -94,7 +94,6 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://e
 * Oportunidades de crescimento identificadas
 
 
-
 ## 💡 Insights Estratégicos
 
 * Distribuição Geográfica: Concentração significativa nas regiões Norte e Nordeste, indicando potencial de expansão para outras regiões
