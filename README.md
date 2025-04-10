@@ -13,6 +13,7 @@ Dashboard operacional que apresenta análise detalhada das vendas, lucro e distr
 
 ## 📈 Análises Disponíveis
 
+
 1. Série Temporal
 
 * Acompanhamento mensal de vendas
