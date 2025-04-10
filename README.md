@@ -20,6 +20,7 @@ Dashboard operacional que apresenta análise detalhada das vendas, lucro e distr
 * Segmentação por categorias (Material de Escritório, Móveis, Tecnologia)
 
 
+
 2. Distribuição Geográfica
 
 * Mapa de calor por região do Brasil
