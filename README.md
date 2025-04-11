@@ -88,6 +88,7 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://e
 * Muriaçu destacando-se com 36,4% de margem de lucro
 * Potencial de expansão em áreas adjacentes
 
+
 2. Nordeste:
 
 * Caucaia apresentando resultados expressivos (R$ 19,5K)
